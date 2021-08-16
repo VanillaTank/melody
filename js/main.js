@@ -6,6 +6,8 @@ btnRestart.addEventListener('click', () =>{restartMelody(createdMelody)} );
 
 const createdMelody= [];
 
+
+//https://www.musicca.com/ru/pianino
 const Notes = [
   $('#C'),
   // $('#Cs'),
